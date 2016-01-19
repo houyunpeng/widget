@@ -17,7 +17,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    // Do any additional setup after loading the view from its nib master.
+    // Do any additional setup after loading the view from its nib master master.
     
     NSLog(@"------frame----%@",NSStringFromCGRect(self.view.frame));
 //    self.view.backgroundColor = [UIColor whiteColor];
